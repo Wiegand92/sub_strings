@@ -1,3 +1,5 @@
+require './lib/sub_strings.rb'
+
 describe "#sub_strings" do
   dictionary = ["or", "for", "get"]
   string = "forget"
